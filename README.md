@@ -40,6 +40,14 @@ nmap -sn 192.168.124.130
 
 Purpose: To check whether the target host is active.
 
+Expected Result
+If the target is active, Nmap will show:
+
+Host is up.
+
+This confirms that the target machine is reachable and ready for further scanning.
+
+<img width="667" height="176" alt="Screenshot 2026-10-29 005830" src="https://github.com/user-attachments/assets/a6af703f-0c13-4f2b-8805-bf2a380ad545" />
 
 
 
