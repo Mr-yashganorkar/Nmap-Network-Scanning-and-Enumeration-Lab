@@ -91,8 +91,14 @@ nmap -sV 192.168.72.130
 
 <img width="622" height="147" alt="Screenshot 2026-10-29 013306" src="https://github.com/user-attachments/assets/250a8239-6092-4b5f-858e-6d956943d217" />
 
+## 8. Operating System Detection
+**Command:**
 
+nmap -O 192.168.72.130
 
+**Purpose:** To estimate the target operating system.
+
+<img width="732" height="661" alt="image" src="https://github.com/user-attachments/assets/d79862fa-5647-4b2a-af6f-343d67d50682" />
 
 
 
