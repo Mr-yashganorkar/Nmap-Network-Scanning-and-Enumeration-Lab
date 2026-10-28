@@ -158,6 +158,9 @@ This project provided practical experience with Nmap network scanning and enumer
 ## 14. Disclaimer
 This project is for educational purposes only. Scanning should be performed only on systems owned by the user or with explicit authorization.# Nmap Network Scanning and Enumeration Lab
 
+## 15. Final Outcome
+The project successfully demonstrated the practical use of Nmap for network discovery, port scanning, service enumeration, OS detection, and security analysis in an authorized lab environment.
 
+**Regards** Yash Ganorkar Cyber Security Student.
 
 
