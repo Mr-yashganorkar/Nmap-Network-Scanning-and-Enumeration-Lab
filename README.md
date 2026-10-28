@@ -8,9 +8,16 @@ The main purpose of this project is to gain practical knowledge of network scann
 ## 2. Objectives
 
 - To understand Nmap scanning techniques.
-To discover active hosts.
-To identify open ports.
-To detect services and versions.
-To identify the operating system.
-To perform vulnerability scanning.
-To analyze scan results.
+- To discover active hosts.
+- To identify open ports.
+- To detect services and versions.
+- To identify the operating system.
+- To perform vulnerability scanning.
+- To analyze scan results.
+ ## 3. Tools and Technologies Used
+Tool	Purpose
+Kali Linux	Scanning machine
+Nmap	Network scanning
+Metasploitable 2	Lab target
+VMware	Virtual machine environment
+Terminal	Execute commands
