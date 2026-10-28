@@ -53,7 +53,7 @@ This confirms that the target machine is reachable and ready for further scannin
 
 **Command:**
 
-nmap -p- 192.168.72.130
+nmap -p- 192.168.124.130
 
 **Purpose**: To scan all TCP ports and identify open ports.
 
@@ -77,7 +77,7 @@ These are common examples; actual results may differ
 
 **Command:**
 
-nmap -sV 192.168.72.130
+nmap -sV 192.168.124.130
 
 **Purpose:** To identify running services and their versions.
 
@@ -94,21 +94,32 @@ nmap -sV 192.168.72.130
 ## 8. Operating System Detection
 **Command:**
 
-nmap -O 192.168.72.130
+nmap -O 192.168.124.130
 
 **Purpose:** To estimate the target operating system.
 
 <img width="732" height="661" alt="image" src="https://github.com/user-attachments/assets/d79862fa-5647-4b2a-af6f-343d67d50682" />
 
+<img width="611" height="152" alt="image" src="https://github.com/user-attachments/assets/c718fc57-13df-41eb-ac9c-b03429d62946" />
 
 
+## 9. Vulnerability Scanning Using NSE
+**Command:**
+
+nmap --script vuln 192.168.124.130
+
+**Purpose:** To check for potential security vulnerabilities.
 
 
+<img width="946" height="760" alt="image" src="https://github.com/user-attachments/assets/a3e5300e-c82b-442c-95ef-6f16f1fa7137" />
 
+<img width="746" height="735" alt="image" src="https://github.com/user-attachments/assets/c4f0598a-caae-4c56-a435-91b7f7a5d618" />
 
+<img width="777" height="786" alt="image" src="https://github.com/user-attachments/assets/e77180b1-2316-4087-a167-e233474716c4" />
 
+<img width="1010" height="782" alt="image" src="https://github.com/user-attachments/assets/3a0ca8c7-79b1-4b9c-8b22-fe97fb1713eb" />
 
-
+<img width="997" height="770" alt="image" src="https://github.com/user-attachments/assets/63108072-c38f-40a2-8807-1502a6903479" />
 
 
 
