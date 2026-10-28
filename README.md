@@ -15,9 +15,10 @@ The main purpose of this project is to gain practical knowledge of network scann
 - To perform vulnerability scanning.
 - To analyze scan results.
  ## 3. Tools and Technologies Used
-Tool	Purpose
-Kali Linux	Scanning machine
-Nmap	Network scanning
-Metasploitable 2	Lab target
-VMware	Virtual machine environment
-Terminal	Execute commands
+| **Tool** | **Purpose** |
+|---|---|
+| Kali Linux | Scanning Machine |
+| Nmap | Network Scanning |
+| Metasploitable 2 | Lab Target |
+| VMware | Virtual Machine Environment |
+| Terminal | Execute Commands |
