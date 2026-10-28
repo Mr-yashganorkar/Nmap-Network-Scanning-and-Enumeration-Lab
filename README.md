@@ -25,12 +25,11 @@ The main purpose of this project is to gain practical knowledge of network scann
 
 ## 4. Lab Setup and Target Identification
 
-arget IP Address: 192.168.124<img width="747" height="430" alt="Screenshot 2026-10-29 003513" src="https://github.com/user-attachments/assets/385f0711-91cd-44f5-a557-fb6d32a2ca49" />
-.130
+Target IP Address: 192.168.124.130 
 
 Command:
-
 ip addr
+<img width="747" height="430" alt="Screenshot 2026-10-29 003513" src="https://github.com/user-attachments/assets/385f0711-91cd-44f5-a557-fb6d32a2ca49" />
 
 
 
