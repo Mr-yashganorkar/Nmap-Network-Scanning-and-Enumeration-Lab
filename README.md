@@ -67,6 +67,41 @@ nmap -p- 192.168.72.130
 | 445 | SMB |
 | 3306 | MySQL |
 
+These are common examples; actual results may differ
+
+<img width="667" height="662" alt="Screenshot 2026-10-29 011156" src="https://github.com/user-attachments/assets/20f26f1d-04c5-49e3-9cbe-4ae18276b480" />
+
+<img width="627" height="155" alt="Screenshot 2026-10-29 012423" src="https://github.com/user-attachments/assets/c5c65541-b142-4887-a3c1-ea3fff14829a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
