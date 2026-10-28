@@ -73,8 +73,17 @@ These are common examples; actual results may differ
 
 <img width="627" height="155" alt="Screenshot 2026-10-29 012423" src="https://github.com/user-attachments/assets/c5c65541-b142-4887-a3c1-ea3fff14829a" />
 
+## 7. Service and Version Detection
 
+**Command:**
 
+nmap -sV 192.168.72.130
+
+**Purpose:** To identify running services and their versions.
+
+| **Option** | **Meaning** |
+|---|---|
+| `-sV` | Service and Version Detection |
 
 
 
