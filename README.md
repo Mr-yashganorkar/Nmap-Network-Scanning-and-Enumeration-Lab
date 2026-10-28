@@ -22,3 +22,31 @@ The main purpose of this project is to gain practical knowledge of network scann
 | Metasploitable 2 | Lab Target |
 | VMware | Virtual Machine Environment |
 | Terminal | Execute Commands |
+
+## 4. Lab Setup and Target Identification
+
+arget IP Address: 192.168.72.130
+
+Command:
+
+ip addr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
