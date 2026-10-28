@@ -86,8 +86,10 @@ nmap -sV 192.168.72.130
 | `-sV` | Service and Version Detection |
 
 
+<img width="1017" height="612" alt="Screenshot 2026-10-29 013104" src="https://github.com/user-attachments/assets/397c5b4a-d63d-4314-a9a8-548deb81096c" />
 
 
+<img width="622" height="147" alt="Screenshot 2026-10-29 013306" src="https://github.com/user-attachments/assets/250a8239-6092-4b5f-858e-6d956943d217" />
 
 
 
