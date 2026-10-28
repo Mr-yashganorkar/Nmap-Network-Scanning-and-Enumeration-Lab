@@ -49,11 +49,23 @@ This confirms that the target machine is reachable and ready for further scannin
 
 <img width="667" height="176" alt="Screenshot 2026-10-29 005830" src="https://github.com/user-attachments/assets/a6af703f-0c13-4f2b-8805-bf2a380ad545" />
 
+## 6. Port Scanning
 
+**Command:**
 
+nmap -p- 192.168.72.130
 
+**Purpose**: To scan all TCP ports and identify open ports.
 
-
+| **Port** | **Common Service** |
+|---:|---|
+| 21 | FTP |
+| 22 | SSH |
+| 23 | Telnet |
+| 25 | SMTP |
+| 80 | HTTP |
+| 445 | SMB |
+| 3306 | MySQL |
 
 
 
